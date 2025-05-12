@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"domain","c":"matrixSum","l":"calculateSum(int[][])"},{"p":"test","c":"matrixTest","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"domain","c":"matrixSum","l":"matrixSum()","url":"%3Cinit%3E()"},{"p":"test","c":"matrixTest","l":"matrixTest()","url":"%3Cinit%3E()"}]
